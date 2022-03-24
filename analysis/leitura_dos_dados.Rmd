@@ -1,0 +1,17 @@
+---
+title: "leitura_dos_dados"
+author: "Dirceu Reis"
+date: "2022-03-24"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+O primeiro passo desta etapa é efetuar a leitura dos dados anuais de precipitação (mm/ano), evapotranspiração potencial (mm/ano) e vazão (m3/s) para cada uma das estações fluviométricas a serem analisadas.Para isso, nós utilizaremos um leitor de arquivos Excel, que se encontram na pasta \dados.
+
+```{r}
+
+```
+
