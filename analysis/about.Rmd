@@ -7,8 +7,12 @@ editor_options:
   chunk_output_type: console
 ---
 
-This project uses the concept developed by Budyko that the long-term mean value of ratio between actual evapotranspiration and precipitation can be estimated based upon te long-term mean annual value of the ratio between potential evapotranspiration and precipitation, also known as dryness index, to estimate the following:
+# Apresentação
 
-1. partition of P into Q and E in gauged and ungauged sites
-2. relative changes in Q due to changes in P and ETP because of climate changes
-3. separate the contributions of climate change and vulnerability from the contributions of land use and land cover changes in the observed changes in mena annual flows   
+Meu nome é Dirceu S. Reis Jr. Sou Professor do Departamento de Engenharia Civil e Ambiental da Universidade de Brasília
+
+# Formação
+
+- Doutorado em Sistema Ambientais e Recursos Hídricos (Cornell University)
+- Mestrado em Recursos Hídricos (COPPE/UFRJ)
+- Engenheiro Civil (UFRJ)
